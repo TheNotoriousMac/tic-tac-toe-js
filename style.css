@@ -15,6 +15,11 @@ body{
     height: 700px;
 }
 
+.heading{
+    font-family: cursive;
+    padding-bottom: 10px;
+}
+
 .gameField{
     width: 300px;
     height: 300px;
